@@ -16,7 +16,7 @@
 
 ## Bad Code
 
-- Kent Beck's book [Implementation Patterns](link-to-book) is based on the premise that good code matters.
+- Kent Beck's book Implementation Patterns is based on the premise that good code matters.
 - Good code is a robust, supported, and crucial aspect of our craft, evident through the challenges posed by its absence.
 - Bad code often impedes programmers, a phenomenon known as "wading." It involves navigating through tangled, senseless code, hindering progress and understanding.
 - The experience of dealing with bad code is common among programmers, raising the question: why write bad code?
