@@ -2,7 +2,7 @@
 
 ## There Will be Code
 
-End of Code Myth: Some suggest the end of code, envisioning a future where all code is generated from specifications, making programmers obsolete.
+* **End of Code Myth:** Some suggest the end of code, envisioning a future where all code is generated from specifications, making programmers obsolete.
 
 * **Code Represents Details:** Code is indispensable as it captures the intricate details of requirements. Specifications at a level machines can execute are essentially code.
 
