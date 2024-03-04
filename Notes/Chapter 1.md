@@ -18,7 +18,6 @@
 
 - Kent Beck's book [Implementation Patterns](link-to-book) is based on the premise that good code matters.
 - Good code is a robust, supported, and crucial aspect of our craft, evident through the challenges posed by its absence.
-- A company's downfall in the late 80s serves as a vivid example. A once-popular app succumbed to stretched release cycles, unrepaired bugs, and deteriorating performance due to rushed and messy code.
 - Bad code often impedes programmers, a phenomenon known as "wading." It involves navigating through tangled, senseless code, hindering progress and understanding.
 - The experience of dealing with bad code is common among programmers, raising the question: why write bad code?
 - Factors such as the need for speed, time constraints, and external pressures often lead to the creation of messy code.
