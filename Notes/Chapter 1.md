@@ -23,3 +23,46 @@
 - Factors such as the need for speed, time constraints, and external pressures often lead to the creation of messy code.
 - The relief of achieving a working mess over nothing, coupled with the intention to clean up later, is a common scenario.
 - However, the reality, expressed by LeBlanc's law, is that "later equals never," emphasizing the importance of addressing code quality promptly.
+
+
+# The Total Cost of Owning a Mess
+
+- **Impact of Messy Code:**
+  - Programmers with over two or three years of experience have likely faced significant slowdowns due to messy code.
+  - Over time, teams dealing with messy code experience a decrease in productivity, leading to the addition of more staff as a futile attempt to improve productivity.
+
+- **The Grand Redesign:**
+  - Eventually, teams rebel against the odious code base and demand a redesign.
+  - Management, acknowledging the poor productivity, authorizes the grand redesign in the sky.
+  - A race ensues between the new tiger team creating a clean system and the old team maintaining the existing messy system.
+
+- **Professional Survival:**
+  - If you've ever been impeded by bad code, spending time keeping code clean is not just cost-effective but a matter of professional survival.
+
+## Attitude
+
+- **Impacts of Bad Code:**
+  - Reflect on instances where bad code significantly impeded progress, known as "wading."
+  - Acknowledge that writing bad code happens under various circumstances, such as time constraints, fatigue, or external pressures.
+
+- **Proactive Approach:**
+  - Emphasize the importance of addressing code quality promptly instead of deferring cleanup for later.
+  - Introduce LeBlanc's law: "Later equals never."
+
+## The Primal Conundrum
+
+- **Basic Values:**
+  - Programmers face a conundrum between the pressure to make messes to meet deadlines and the knowledge that messes slow down development.
+  - True professionals understand that clean code is essential for meeting deadlines and going fast.
+
+## The Art of Clean Code
+
+- **Clean Code Defined:**
+  - Clean code is characterized by elegance, efficiency, readability, and expressiveness.
+  - Notable programmers define clean code as something that reads well, is easy to enhance, and exhibits care.
+  
+## What Is Clean Code?
+
+- **Diverse Perspectives:**
+  - Bjarne Stroustrup, Grady Booch, Dave Thomas, Michael Feathers, Ron Jeffries, and Ward Cunningham provide their perspectives on clean code.
+  - Common themes include simplicity, readability, expressiveness, minimalism, and care.
